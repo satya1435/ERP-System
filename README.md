@@ -19,10 +19,10 @@ Ensure you have the following software installed on your machine:
 - npm (Node Package Manager)
 
 ### Installation
-1. Clone the repository:
+1. Clone the repository into a folder called erp-system:
     git clone <repository-url>
-2. Navigate to the project directory:
-    cd erp-system
+2. Navigate to the project directory (where you have package.json file):
+    cd ERP-system
 3. Install dependencies:
     npm install
 4. Start the development server:
