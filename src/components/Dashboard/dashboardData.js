@@ -1,0 +1,68 @@
+import { ShoppingCart, Store, People, MonetizationOn, Assignment } from '@mui/icons-material'; // Import icons
+
+export const dashBoardData = [
+    {
+        title: "Total Products",
+        value: 50,
+        change: 5,
+        changeColor: 'green',
+        iconColor: '#EE4266',
+        icon: <Store sx={{ color: 'whitesmoke' }} />,
+    },
+    {
+        title: "Active Orders",
+        value: 12,
+        change: -2,
+        changeColor: 'red',
+        iconColor: '#00C7B7',
+        icon: <ShoppingCart sx={{ color: 'whitesmoke' }} />,
+    },
+    {
+        title: "Out of Stock Products",
+        value: 3,
+        change: 10,
+        changeColor: 'green',
+        iconColor: '#FFD23F',
+        icon: <Store sx={{ color: 'whitesmoke' }} />,
+    },
+    {
+        title: "Total Customers",
+        value: 100,
+        change: 3,
+        changeColor: 'green',
+        iconColor: '#34656d',
+        icon: <People sx={{ color: 'whitesmoke' }} />,
+    },
+    {
+        title: "Revenue",
+        value: '$5000',
+        change: 8,
+        changeColor: 'green',
+        iconColor: '#FF9B71',
+        icon: <MonetizationOn sx={{ color: 'whitesmoke' }} />,
+    },
+    {
+        title: "Pending Tasks",
+        value: 5,
+        change: 15,
+        changeColor: 'green',
+        iconColor: '#7B2CBF',
+        icon: <Assignment sx={{ color: 'whitesmoke' }} />,
+    },
+    {
+        title: "Metric 1",
+        value: 25,
+        change: 20,
+        changeColor: 'green',
+        iconColor: '#3498DB',
+        icon: <Assignment sx={{ color: 'whitesmoke' }} />,
+    },
+    {
+        title: "Metric 2",
+        value: 150,
+        change: -10,
+        changeColor: 'red',
+        iconColor: '#8E44AD',
+        icon: <Assignment sx={{ color: 'whitesmoke' }} />,
+    },
+];
