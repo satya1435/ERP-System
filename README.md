@@ -5,7 +5,7 @@ The ERP system is a user-friendly interface for managing key aspects of a busine
 
 **Pages Included in this Project:**
 
- Markup : * Dashboard - Provides an overview of the system's features.
+ - Dashboard - Provides an overview of the system's features.
           * Products Management - Allows for the management of product listings.
           * Orders Management - Facilitates viewing and handling orders.
           * Orders Calendar View - A calendar interface displaying orders based on their expected delivery dates.
