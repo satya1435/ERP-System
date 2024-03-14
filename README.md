@@ -3,6 +3,15 @@
 ## Overview
 The ERP system is a user-friendly interface for managing key aspects of a business. It utilizes React for building modular components and managing application state. The project aims to implement navigation between different sections of the ERP system using React Router and create a responsive design suitable for both desktop and mobile devices.
 
+**Pages Included in this Project:**
+
+Dashboard - Provides an overview of the system's features.
+Products Management - Allows for the management of product listings.
+Orders Management - Facilitates viewing and handling orders.
+Orders Calendar View - A calendar interface displaying orders based on their expected delivery dates.
+
+
+
 ## Table of Contents
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
