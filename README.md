@@ -53,6 +53,12 @@ The ERP system allows users to manage key aspects of their business, including p
 **Orders Page**
 ![Orders screenshot](screenshots/Orders.png)
 
+**Calendar Page**
+![Calendar feature screenshot](screenshots/Calendar.png)
+
+**Calendar Details**
+![Calendar Details screenshot](screenshots/Calendar_details.png)
+
 
 
 
