@@ -38,3 +38,7 @@ Ensure you have the following software installed on your machine:
 
 ## Usage
 The ERP system allows users to manage key aspects of their business, including products, orders, and dashboard metrics. Users can navigate between different sections using the menu and perform various actions such as adding, editing, and deleting items.
+
+## Screenshots
+![Dashboard screenshot](screenshots/Dashboard.png)
+
